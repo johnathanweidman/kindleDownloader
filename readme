@@ -1,0 +1,9 @@
+To use this to download your books from amazone you need to put the username and password into the settings.jsonf file. If MFA is enabled or a captcha comes up you wil need to interact with the web browser that comes up. This will atempt to log into your amazon account, got to you content page, then download all books you have. Some books have dead links so not all books will be downloaded. Any books that can be will be in the downloads folder. 
+
+
+To run 
+got to https://nodejs.org/en/download and download the latest version of node.js
+
+run 'npm install'
+run 'npm run start'
+
